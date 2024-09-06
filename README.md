@@ -17,7 +17,8 @@ A Python-based digital dashboard for bikes, built using PyQt5. This application 
 ![Hardware](Images/IMG-20240823-WA0006.jpg)
 #### The Bike
 ![The Bike](Images/IMG-20240823-WA0008.jpg)
-[Video](Images/VID-20240823-WA0001.mp4)
+#### Preview
+![Video](Images/Preview.gif)
 
 ## Getting Started
 ## Prerequisites
